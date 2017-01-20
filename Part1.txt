@@ -1,11 +1,16 @@
-/* Guys! let's remember, fairytails are better when they are gruesome, are they? */
+/* Guys! let's remember, fairytails are better when they are gruesome, are they? They were in ye olden times*/
 
 Once upon a time there was a very nice family and they went on a lot of adventures.
 For instance, they went on an adventure with a boat. It was a very nice pirateship they once stole from Blackbeard. They even took the parrot!  
 One day they were guided by a whale to a far away island.
 The whale preferred the sea over beach, but got stranded anyways.
+<<<<<<< HEAD
 So the family was left in the island with no food and no shelter, because they already ate everything, even the parrot. 
 The island had pure white beaches, covered in palm trees and beach chairs. The chair were made from recyclable plastic.
+=======
+So the family was left in the island with no food and no shelter 
+The island had pure white beaches, covered in palm trees and beach chairs. The chair were made from recyclable plastic. The recyclable plastic came from the toys stolen from small children
+>>>>>>> 3cf0ab9e96d28ed07bacf1f519474a7ee420bf3d
 
 There were some people there, so we went to meet them
 This land had the strangest inhabitants called Stnatibahni who prefered to use fruit to build their homes.
