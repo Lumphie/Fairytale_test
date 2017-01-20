@@ -5,10 +5,11 @@ The family returned to their boat. And sailed off.
 But unfortunately it had  a leak in it. Which was very unfortunate.
 This series of unfortunate events was of course orchestrated by the evil Count Olaf.
 Olaf was in league with the Flying Dutchman and insane wizzzards.
+<<<<<<< HEAD
 The flying Dutchman began questioning his life choices. He then remembered
 he had left a kinder bueno in his back pocket. He ate it and then was struck
 by a fiddle string. All of a sudden, he had fallen head over heels in love
 with one of the insane wizzard's standing perching on a golf tee to his left.
 They kissed and then fell down a well filled with monkey's and blue cheese.
 
-THe world was weird
+
