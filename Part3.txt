@@ -17,4 +17,7 @@ They kissed and then fell down a well filled with monkey's and blue cheese.
 =======
 THe world was weird, and everybody was surprised by the occurrence of a third story line.
 However, they decided to set doubts aside and make the most out of a cónfusing situation.
+<<<<<<< HEAD
 >>>>>>> .merge_file_e2dk3F
+=======
+>>>>>>> chris
