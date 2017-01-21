@@ -36,7 +36,11 @@ The Island crab just shrugged and went back to sleep.
 
 At least, that is what we think, no one ever saw then again.
 And apparently ate the crap meat as well. Yum yum
+<<<<<<< HEAD
 Tasty.
 >>>>>>> crispy
 
+=======
+It seems that they were very tasty!!!
+>>>>>>> frederic.labbe
 
