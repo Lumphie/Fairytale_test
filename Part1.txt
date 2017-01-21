@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Guys! let's remember, fairytails are better when they are gruesome, are they? They were in ye olden times*/
 
 Once upon a time there was a very nice family and they went on a lot of adventures.
@@ -49,3 +50,6 @@ No aneasthetic though.
 
 End.
 
+=======
+Once upon a time there was a big family that lived somewhere far far away. They were very happy with their lives. A lot of special things happened.
+>>>>>>> kewe
